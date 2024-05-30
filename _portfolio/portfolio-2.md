@@ -1,7 +1,27 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Tesla Computer Vision"
+excerpt: "Explore my comprehensive project on image classification and object detection, featuring advanced model training with EfficientNet and YOLOv8 for accurate bounding box predictions."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Check out the project [here]()
+## Tools Used:
+*Machine/Deep Learning, TensorFlow, CNN's, Transfer Learning, EfficientNet, YOLOv8, Model Evaluation and Fine Tuning, Loss Functions, Evaluation Metrics, Early Stopping, Learning Rate Adjustments, Data Mining, Data Manipulation, Data Preprocessing, Data Visualization, OpenCV, Image Processing, Bounding Box Annotation and Visualization, YOLO Format Conveersion, Annotation Management, Pandas, Numpy, Matplotlib, Seaborn, Custom Model Creation, Model Checkpointing, Plotting Training Metrics and Loss over Epochs, Visualizing Class Prediction and Bounding Boxes for Predictions, Code Documentation and Organization, Iterative Model Improvements, Results analysis on Model Checkpoints*
+## Summary:
+- **Engineered a comprehensive image classification and object detection pipeline:**
+  Designed and implemented multiple deep learning models, including a baseline convolutional neural network and an EfficientNet-based feature extractor model, to accurately predict image labels and bounding boxes.
+  
+- **Leveraged advanced transfer learning techniques:**
+  Fine-tuned pre-trained models, adjusted learning rates, and trained models iteratively to achieve superior performance on custom datasets.
+  
+- **Deployed YOLOv8 for multi-object detection:**
+  Successfully implemented YOLOv8 on a custom dataset, enabling precise classification and localization of multiple objects within images.
+  
+- **Documented and visualized model performance:**
+  Generated detailed evaluation metrics and loss plots to track model progress over epochs, facilitating informed decision-making and model selection.
+  
+- **Expertise in data preprocessing and management:**
+Proficiently handled image data, including resizing, normalization, and annotation conversion to YOLO format, ensuring compatibility with deep learning models.
+
+- **Skilled in Python programming and deep learning libraries:**
+  Leveraged TensorFlow, Pandas, NumPy, OpenCV, Matplotlib, and Seaborn to develop efficient and scalable solutions for image classification and object detection tasks.
