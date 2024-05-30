@@ -1,8 +1,14 @@
 ---
 title: "Arxiv Research Assistant"
-excerpt: "Discover how the Arxiv Research Assistant streamlines AI/ML research by providing smart paper recommendations, concise summaries, and interactive learning tools. <img src='../images/research_task.png' style='float: right; margin-left: 10px;'>"
+excerpt_separator: <!--more-->
 collection: portfolio
 ---
+Discover how the Arxiv Research Assistant streamlines AI/ML research by providing smart paper recommendations, concise summaries, and interactive learning tools. 
+
+<img src='../images/research_task.png' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'>
+
+<!--more-->
+
 ## Check out the project [here](https://arxivresearchassistant.streamlit.app/)
 ## Tools Used:
 *API Integration, Information Retrieval, Remote Downloading, Web Scraping(Beautiful Soup), Requests(API/Source Code Interaction), HTML understanding, Unstructured Document Processing, Langchain, Streamlit, Session State Management, Prompt Engineering, Prompt Chaining, Text Embeddings, RAG Database management, Retrieval via Embeddings Similarity Search, File Handling and Management*
