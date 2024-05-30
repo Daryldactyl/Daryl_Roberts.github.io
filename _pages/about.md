@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "🙋🏻‍♂️ Hello There! I'm Daryl"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+![Image 1](/images/hold_for_robot.webp){: .align-right width="500px"}
+👨🏻‍💻 I’m a dedicated Machine Learning Engineer with a rich and diverse background. My journey began in the world of operations, where I successfully led teams and managed complex data as an Operations Manager. My time as a Sergeant in the Marine Corps further honed my problem-solving abilities, communication skills, and adaptive thinking.
+
+🔬 Driven by a profound belief in AI's potential to revolutionize and enhance humanity, I decided to pivot my career towards Machine Learning Engineering. After graduating from Fullstack's AI/ML bootcamp, I deepened my expertise with specialized courses in AI/ML, Google's TensorFlow certification, Computer Vision, Langchain, PyTorch, Git, and Environment-based Reinforcement Learning.
 
 A data-driven personal website
 ======
