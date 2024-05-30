@@ -1,13 +1,8 @@
 ---
 title: "Arxiv Research Assistant"
-excerpt_separator: <!--more-->
+excerpt_separator: "Discover how the Arxiv Research Assistant streamlines AI/ML research by providing smart paper recommendations, concise summaries, and interactive learning tools. <img src='../images/research_task.png' style='float: left; margin-right: 10px; width: 30%;'>"
 collection: portfolio
 ---
-Discover how the Arxiv Research Assistant streamlines AI/ML research by providing smart paper recommendations, concise summaries, and interactive learning tools. 
-
-<img src='../images/research_task.png' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'>
-
-<!--more-->
 
 ## Check out the project [here](https://arxivresearchassistant.streamlit.app/)
 ## Tools Used:
