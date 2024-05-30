@@ -1,6 +1,6 @@
 ---
 title: "Arxiv Research Assistant"
-excerpt: "Discover how the Arxiv Research Assistant streamlines AI/ML research by providing smart paper recommendations, concise summaries, and interactive learning tools. <img src='../images/research_task.png' style='float: left; margin-right: 10px; width: 30%;'>"
+excerpt: "Discover how the Arxiv Research Assistant streamlines AI/ML research by providing smart paper recommendations, concise summaries, and interactive learning tools."
 collection: portfolio
 ---
 
