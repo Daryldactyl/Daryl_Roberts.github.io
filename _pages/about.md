@@ -10,7 +10,11 @@ redirect_from:
 
 👨🏻‍💻 I’m a dedicated Machine Learning Engineer with a rich and diverse background. My journey began in the world of operations, where I successfully led teams and managed complex data as an Operations Manager. My time as a Sergeant in the Marine Corps further honed my problem-solving abilities, communication skills, and adaptive thinking.
 
-🔬 Driven by a profound belief in AI's potential to revolutionize and enhance humanity, I decided to pivot my career towards Machine Learning Engineering. After graduating from Fullstack's AI/ML bootcamp, I deepened my expertise with specialized courses in AI/ML, Google's TensorFlow certification, Computer Vision, Langchain, PyTorch, Git, and Environment-based Reinforcement Learning.
+🔬 Driven by a profound belief in AI's potential to revolutionize and enhance humanity, I decided to pivot my career towards Machine Learning. After graduating from LSU's AI/ML bootcamp powered by Fullstack Academy, I deepened my expertise with specialized courses in AI/ML, Google's TensorFlow certification, Computer Vision, Langchain, PyTorch, Git, and Environment-based Reinforcement Learning.
+
+📚 I'm intrigued by interesting Machine Learning use cases like Biology 🧬, Healthcare 🩻, Space 🪐, and Physics 🚀
+
+🤖 When I'm not teaching computers how to take over the world: You can find me restaurant hopping for good food and drinks with my beautiful fiance, screaming at the refs during a 49ers game, reading a sci-fi/fantasy novel, or throwing the frisbee with my dog, "Anakin".
 
 A data-driven personal website
 ======
