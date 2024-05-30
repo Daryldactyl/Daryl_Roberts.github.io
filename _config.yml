@@ -21,7 +21,7 @@ repository               : "Daryldactyl/Daryl_Roberts.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1058.jpeg"
   name             : "Daryl Roberts"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring AI/ML Engineer | Tensorflow | Computer Vision | Langchain | Military Veteran | Data Science | Python | SQL | Pytorch | Sci-kit Learn"
