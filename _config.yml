@@ -200,6 +200,12 @@ kramdown:
 
 # Collections
 collections:
+  machinelearning:
+    output: true
+    permalink: /:collection/:path/
+  genai:
+    output: true
+    permalink: /:collection/:path/
   datascience:
     output: true
     permalink: /:collection/:path/
@@ -246,10 +252,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _machinelearning
   - scope:
       path: ""
-      type: publications
+      type: machinelearning
     values:
       layout: single
       author_profile: true
@@ -264,14 +270,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _genai
   - scope:
       path: ""
-      type: talks
+      type: genai
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 # Sass/SCSS
