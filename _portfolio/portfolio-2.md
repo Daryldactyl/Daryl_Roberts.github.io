@@ -4,7 +4,7 @@ excerpt: "Explore my comprehensive project on image classification and object de
 collection: portfolio
 ---
 
-## Check out the project [here]()
+## Check out the project [here](https://github.com/Daryldactyl/Tesla_CNN/blob/main/Project_1.ipynb)
 ## Tools Used:
 *Machine/Deep Learning, TensorFlow, CNN's, Transfer Learning, EfficientNet, YOLOv8, Model Evaluation and Fine Tuning, Loss Functions, Evaluation Metrics, Early Stopping, Learning Rate Adjustments, Data Mining, Data Manipulation, Data Preprocessing, Data Visualization, OpenCV, Image Processing, Bounding Box Annotation and Visualization, YOLO Format Conveersion, Annotation Management, Pandas, Numpy, Matplotlib, Seaborn, Custom Model Creation, Model Checkpointing, Plotting Training Metrics and Loss over Epochs, Visualizing Class Prediction and Bounding Boxes for Predictions, Code Documentation and Organization, Iterative Model Improvements, Results analysis on Model Checkpoints*
 ## Summary:
@@ -25,6 +25,3 @@ Proficiently handled image data, including resizing, normalization, and annotati
 
 - **Skilled in Python programming and deep learning libraries:**
   Leveraged TensorFlow, Pandas, NumPy, OpenCV, Matplotlib, and Seaborn to develop efficient and scalable solutions for image classification and object detection tasks.
-
-  ![Yolo 1](../images/val_batch0_labels.jpg)
-  ![Yolo 2](../images/val_batch1_labels.jpg)
