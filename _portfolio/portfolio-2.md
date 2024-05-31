@@ -26,5 +26,5 @@ Proficiently handled image data, including resizing, normalization, and annotati
 - **Skilled in Python programming and deep learning libraries:**
   Leveraged TensorFlow, Pandas, NumPy, OpenCV, Matplotlib, and Seaborn to develop efficient and scalable solutions for image classification and object detection tasks.
 
-  ![Image 1](../images/val_batch0_labels.jpg)
-  ![Image 2](../images/val_batch1_labels.jpg)
+  ![Yolo 1](../images/val_batch0_labels.jpg)
+  ![Yolo 2](../images/val_batch1_labels.jpg)
