@@ -5,7 +5,7 @@ main:
     url: /files/Daryl_Roberts_Resume1.pdf
 
   - title: "Data Science"
-  url: /datascience/
+    url: /datascience/
 
   - title: "Machine Learning"
     url: /machinelearning/
