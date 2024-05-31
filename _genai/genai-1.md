@@ -18,6 +18,6 @@ collection: genai
   Designed and deployed a Streamlit-based web application to provide an intuitive interface for researchers, enabling seamless interaction with the AI assistant.
 
 <audio controls>
-  <source src="../files/reference_audio.wav" type="audio/wav">
+  <source src="https://daryldactyl.github.io/files/reference_audio.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
