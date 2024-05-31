@@ -8,10 +8,10 @@ main:
     url: /datascience/
 
   - title: "Machine Learning"
-    url: /machinelearning/
+    url: /machinelearning1/
     
   - title: "Gen AI"
-    url: /genai/
+    url: /genai1/
 
 
 
