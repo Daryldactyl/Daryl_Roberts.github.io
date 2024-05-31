@@ -30,7 +30,7 @@ Automated text processing and synthesis tasks using Python scripts, enhancing ef
 - **Version Control and Collaboration:**
 Managed model checkpoints and configurations using Git, enabling version control and collaboration on the project.
 
-### Listent to the Reference Audio used to train the Model:
+### Listen to the Reference Audio used to train the Model:
 <audio controls>
   <source src="https://daryldactyl.github.io/files/reference_audio.wav" type="audio/wav">
   Your browser does not support the audio element.
