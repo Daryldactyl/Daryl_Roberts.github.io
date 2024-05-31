@@ -234,10 +234,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _datascience
   - scope:
       path: ""
-      type: teaching
+      type: datascience
     values:
       layout: single
       author_profile: true
