@@ -4,7 +4,7 @@ excerpt: "A text classification project breaking down medical research papers' a
 collection: portfolio
 ---
 
-## Check out the project [here]([https://github.com/Daryldactyl/Tesla_CNN/blob/main/Project_1.ipynb](https://github.com/Daryldactyl/Pubmed/blob/main/Research_Paper_Classifier.ipynb))
+## Check out the project [here](https://github.com/Daryldactyl/Pubmed/blob/main/Research_Paper_Classifier.ipynb)
  - *The State of the Art Model was Implemented from [PubMed 200k](https://arxiv.org/pdf/1710.06071)*
 ## Tools Used:
 *NLP, Analyze Text Data, Tokenization, Embeddings, Text Vectorization, Leveraging Pretrained Sentence Encoder, Implement Model from Research Publication, Naive Bayes, Conv1D, Multimodal Models, Bidirectional LSTM, Text Data Preprocessing, Categorical Encoding, One Hot Encoding, Handling Missing Variables, Model Evaluation on Common Metrics (Accuracy, Precision, Recall, F-1), Hyperparameter Tuning, Optimize Model Performance, Data Manipulation, Pandas, Numpy, Concatenating Multiple Model Heads*
