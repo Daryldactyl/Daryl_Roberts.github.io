@@ -32,3 +32,5 @@ Ensured efficient and scalable application development through effective use of 
 - **Skilled in Python Programming and Application Integration:**
 Demonstrated proficiency in Python programming, integrating various libraries to create a cohesive and functional web application.
 Leveraged advanced techniques to optimize application performance and enhance user experience.
+
+![Web Image](../images/Breast_Cancer_Web_APP.png)
