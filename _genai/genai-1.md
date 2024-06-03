@@ -5,6 +5,7 @@ collection: genai
 ---
 
 ## Check out the project [here](https://arxivresearchassistant.streamlit.app/)
+  - *For the code, check out my [Github](https://github.com/Daryldactyl/Arxiv_Research_Assistant/blob/main/deployable_app.py)*
 ## Tools Used:
 *API Integration, Information Retrieval, Remote Downloading, Web Scraping(Beautiful Soup), Requests(API/Source Code Interaction), HTML understanding, Unstructured Document Processing, Langchain, Streamlit, Session State Management, Prompt Engineering, Prompt Chaining, Text Embeddings, RAG Database management, Retrieval via Embeddings Similarity Search, File Handling and Management*
 ## Summary:
