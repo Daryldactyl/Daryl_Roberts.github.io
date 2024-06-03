@@ -4,6 +4,7 @@ excerpt: "Explore my Breast Cancer Predictor project, a comprehensive Streamlit 
 collection: datascience
 ---
 ## Check out the project [here](https://cancer-classifier.streamlit.app/)
+  - *For the code, check out my [Github](https://github.com/Daryldactyl/Cancer_Web_app/blob/main/app.py)
 ## Tools Used:
 *Developed and implemented an end-to-end Machine Learning app with Multiple Machine Learning Models, XGBoost, Logistic Regression, Random Forest, Kernel SVM, Scikit-learn, Data Cleaning, Normalize Data with Standard Scaler, Encoded Categorical Labels, Evaluate model using accuracy, precision, recall, and F-1, Implement Plotly visualization with a Radar Chart, Interactive Web app using streamlit, User-friendly interface using sliders, Used Select box to load different Machine Learning Models, Leveraged Caching to optimize data loading and model training, Deployed models as user-friendly web app*
 ## Summary:
@@ -32,5 +33,3 @@ Ensured efficient and scalable application development through effective use of 
 - **Skilled in Python Programming and Application Integration:**
 Demonstrated proficiency in Python programming, integrating various libraries to create a cohesive and functional web application.
 Leveraged advanced techniques to optimize application performance and enhance user experience.
-
-<img src="../images/Breast_Cancer_Web_APP.png" alt="Web Image">
