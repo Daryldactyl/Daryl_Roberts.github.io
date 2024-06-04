@@ -42,3 +42,11 @@ Managed model checkpoints and configurations using Git, enabling version control
   <source src="https://daryldactyl.github.io/files/voice_clone.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
+
+### Example clip showing the model not only understands punctuation but understands exclamation, heightening immersion when generating AudioBooks:
+- *Key Timestamps: 00:02 "MOVE!", 00:07 "Move!" "No!" I said, 00:45 - 00:53 "But ohhhh noo, they don't allow that do they?!" "There are ways" Lillian said. "NO!" the man barked "No! Not nearly enough"*
+<audio controls>
+  <source src="https://daryldactyl.github.io/files/Exclamation_clip.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
