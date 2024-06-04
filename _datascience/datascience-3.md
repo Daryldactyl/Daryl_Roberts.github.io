@@ -1,0 +1,1 @@
+This project built a convolutional neural network model to identify Capuchin bird calls in forest recordings using audio spectrograms, achieving high accuracy and enabling automated analysis of ecological data.
