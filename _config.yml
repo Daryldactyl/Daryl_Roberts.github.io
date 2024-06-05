@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+d# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -21,7 +21,7 @@ repository               : "Daryldactyl/Daryldactyl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1058.jpeg"
+  avatar           : "headshot_2.jpeg"
   name             : "Daryl Roberts"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring AI/ML Engineer | Tensorflow | Computer Vision | Langchain | Military Veteran | Data Science | Python | SQL | Pytorch | Sci-kit Learn"
