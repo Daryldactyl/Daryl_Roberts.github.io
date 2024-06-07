@@ -19,7 +19,6 @@ Applied regex-based sentence splitting to preserve sentence-ending punctuation d
 
 - **Deployed Real-time Audio Synthesis:**
 Integrated TTS models into the system for real-time audio synthesis, allowing for immediate playback of synthesized audio.
-Expertise in Audio Processing:
 
 - **Demonstrated proficiency in audio manipulation, including concatenation of audio waveforms and adjustment of playback rates:**
 Utilized sound libraries like sounddevice for audio playback and manipulation.
