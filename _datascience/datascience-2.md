@@ -6,6 +6,7 @@ collection: datascience
 ## Check out the project [here](https://github.com/Daryldactyl/Exoplanet_Classification/blob/main/planet_clustering.ipynb)
   - I pulled this data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html) and had to do extensive cleaning, parsing, and merging of various tables to generate the dataset. See how I created the dataset [here](https://github.com/Daryldactyl/Exoplanet_Classification/blob/main/data_processing.ipynb)
   - As a BONUS, I also used lightcurve data in order to find exoplanets in transit. Here is the [link to that notebook](https://github.com/Daryldactyl/Exoplanet_Classification/blob/main/exoplanet_finder.ipynb)
+  - **NEW:** I've also created a Tableau Dashboard to present the Data Visualizations for this project. You can view the interactive dashboard [here](https://public.tableau.com/app/profile/daryl.roberts4604/viz/ExoplanetsClustering/Dashboard1)
 ## Tools Used
 *Data Cleaning, Data Transformation, Merging DataFrames, Feature Selection, Exploratory Data Analysis, Statistics, K-Means Clustering, Unsupervised Learning, Data Wrangling, Regular Expression, Skillful use of Pandas, Attention to Detail, Problem-Solving, Project Management, Dimensionality Reduction, Clustering Evaluation, Sihouette Analysis, Elbow Method, Optimizing Clusters, Data Exploration, Scikit-learn, Plotly, Interactive Graphing, Feature Engineering, Data Interpretation, Communication, Presenting Data Findings*
 ## Summary:
@@ -19,7 +20,7 @@ Calculated summary statistics and created new features (e.g., relative density) 
 Employed K-Means clustering to group exoplanets based on their similarities, and Principal Component Analysis (PCA) to reduce the number of features for visualization purposes.
 
 - **Clustering Evaluation and Visualization:**
-Utilized Silhouette analysis and Elbow method to determine the optimal number of clusters, and created interactive scatter plots using Plotly.express to visualize the distribution of exoplanets within the identified clusters.
+Utilized Silhouette analysis and Elbow method to determine the optimal number of clusters, and created interactive scatter plots using Plotly.express to visualize the distribution of exoplanets within the identified clusters. Additionally, I created a Tableau dashboard for a more comprehensive and interactive visualization of the data and clustering results. You can explore the Tableau dashboard [here](https://public.tableau.com/app/profile/daryl.roberts4604/viz/ExoplanetsClustering/Dashboard1).
 
 - **Data Interpretation and Analysis:**
 Analyzed the characteristics of each cluster (means of features like radius, mass, and orbital period) to draw conclusions about the potential types of exoplanets within each group, suggesting the existence of different exoplanet types like Hot Jupiters, Super-Earths, and Dense Gas Giants based on their characteristics within the clusters.
